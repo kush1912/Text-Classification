@@ -5,11 +5,11 @@ This is one of the Projects which was done in interest to learn the difference b
 **Language :** Python <br>
 **Tools & Technolgies :**  Spyder,  Jupyter Notebook, Chrome driver, google collab
 
-###**SCRAPING** <br>
--Website Scraped :  Youtube</br>
--Libraries used : Beautiful Soup, Selenium, Requests  <br>
--Data Fields: Video ID, Title,  Description, Class <br>
--Dataset contains 500 entries per class on an average. <br>
+### **SCRAPING** 
++Website Scraped :  Youtube</br>
++Libraries used : Beautiful Soup, Selenium, Requests  <br>
++Data Fields: Video ID, Title,  Description, Class <br>
++Dataset contains 500 entries per class on an average. <br>
 
 ![image](https://user-images.githubusercontent.com/36148381/56984817-8fa0cf00-6ba4-11e9-8ea8-4c19ff78471f.png)
 
