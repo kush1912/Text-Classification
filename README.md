@@ -1,9 +1,9 @@
 # Text-Classification
 
-This is one of the Projects which was done in interest to learn the difference between the different classification algorithm and derive a solid conclusion from that. It scrap sthe data from youtube and related to six different classes and then by using different classification algorithm it classifies them.
+Projects was done in interest to learn the difference between the different classification algorithm, especially in text classification, and derive a solid conclusion from that. The data set has been created by scraping the data from youtube, related to six different classes. It uses NLP and TFIDF as a Feature extraction technique, and then further using those features it classifies them into different six classes.
 
 **Language :** Python <br>
-**Tools & Technolgies :**  Spyder,  Jupyter Notebook, Chrome driver, google collab
+**Tools & Technolgies :** NLP, Spyder,  Jupyter Notebook, Chrome driver, google collab
 
 ### **SCRAPING** 
 +Website Scraped :  Youtube</br>
